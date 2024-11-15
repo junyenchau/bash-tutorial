@@ -290,3 +290,4 @@ rmdir images
 rm images/background.png
 rm images/background,jpg
 rm images/background.jpg
+rmdir images
