@@ -320,3 +320,4 @@ touch client/assets/fonts/lato-light.ttf
 find
 rm --help
 rm -r fonts
+ls --color=auto
