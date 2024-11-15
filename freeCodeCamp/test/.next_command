@@ -164,3 +164,6 @@ more LICENSE-MIT
 clear
 ls --color=auto
 cd src
+path
+path me
+pwd
