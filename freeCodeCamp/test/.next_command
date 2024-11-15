@@ -296,3 +296,6 @@ clear
 mkdir icons client/assets
 mkdir client/assets icons
 mkdir client/assets/icons
+mkdir client/assets/icons/assets/icons
+mkdir CodeAlly.svg client/assets/icons
+mv CodeAlly.svg client/assets/icons
