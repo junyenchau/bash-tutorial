@@ -152,3 +152,6 @@ clear
 ls --color=auto
 cd node_modules
 ls --color=auto
+ls --color=auto -1
+__vsc_prompt_cmd_original
+ls --color=auto -l
