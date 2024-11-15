@@ -155,3 +155,4 @@ ls --color=auto
 ls --color=auto -1
 __vsc_prompt_cmd_original
 ls --color=auto -l
+cd has
