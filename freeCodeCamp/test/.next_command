@@ -242,3 +242,11 @@ find
 mv lato.ttf fonts
 mv menlo.otf fonts
 find
+mkdir clients
+ls' ls n mkdir clients '
+ls --color=auto
+rm clients
+rmdir clients
+mkdir clients
+rmdir clients
+mkdir client
