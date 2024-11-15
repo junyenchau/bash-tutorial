@@ -189,3 +189,4 @@ touch .gitignore
 ls --color=auto
 ls --color=auto --flag
 ls --color=auto --help
+ls --color=auto -a
