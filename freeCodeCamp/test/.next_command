@@ -268,3 +268,6 @@ mkdir assets
 cd assets
 mkdir images
 cd images
+mk background.jpg
+create background.jpg
+touch background.jpg
