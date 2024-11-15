@@ -173,3 +173,4 @@ cd ..
 pwd
 cd ..
 cd ../..
+ls --color=auto
