@@ -200,3 +200,4 @@ __vsc_prompt_cmd_original
 touch lato.font
 touch menlo.font
 ls --color=auto
+touch CodeAlly.svg
