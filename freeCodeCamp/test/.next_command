@@ -167,3 +167,4 @@ cd src
 path
 path me
 pwd
+ls --color=auto
