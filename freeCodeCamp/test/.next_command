@@ -203,3 +203,4 @@ ls --color=auto
 touch CodeAlly.svg
 touch CodeRoad.svg
 touch freeCodeCamp.svg
+ls --color=auto
