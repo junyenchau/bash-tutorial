@@ -272,3 +272,4 @@ mk background.jpg
 create background.jpg
 touch background.jpg
 cd ../../..
+cd images
