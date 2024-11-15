@@ -174,3 +174,4 @@ pwd
 cd ..
 cd ../..
 ls --color=auto
+clear
