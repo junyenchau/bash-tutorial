@@ -258,3 +258,4 @@ mv styles.css clients/src
 mv styles.css client/src
 find
 find client
+find --help
